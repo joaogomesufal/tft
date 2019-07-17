@@ -1,4 +1,4 @@
-{
+const classes = {
   "assassin": {
     "key": "assassin",
     "name": "Assassin",
@@ -152,3 +152,5 @@
     ]
   }
 }
+
+export default classes;

@@ -1,4 +1,4 @@
-{
+const tierlis = {
   "all": {
     "1": [
       "AurelionSol",
@@ -248,3 +248,5 @@
     ]
   }
 }
+
+export default tierlis;

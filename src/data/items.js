@@ -1,4 +1,4 @@
-{
+const items = {
   "bfsword": {
     "key": "bfsword",
     "name": "B.F. Sword",
@@ -612,3 +612,5 @@
     "champs": ["Ashe", "Yasuo", "Zed"]
   }
 }
+
+export default items;

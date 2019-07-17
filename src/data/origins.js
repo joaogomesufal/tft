@@ -1,4 +1,4 @@
-{
+const origins = {
   "demon": {
     "key": "demon",
     "name": "Demon",
@@ -192,3 +192,5 @@
     ]
   }
 }
+
+export default origins;
