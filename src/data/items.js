@@ -1,6 +1,7 @@
 const items = {
   "bfsword": {
     "key": "bfsword",
+    "image": "../assets/1.png",
     "name": "B.F. Sword",
     "type": "Offensive",
     "bonus": "+20 Attack Damage.",
@@ -28,6 +29,7 @@ const items = {
   },
   "needlesslylargerod": {
     "key": "needlesslylargerod",
+    "image": "../assets/3.png",
     "name": "Needlessly Large Rod",
     "type": "Offensive",
     "bonus": "+20% Spell Damage",
@@ -55,6 +57,7 @@ const items = {
   },
   "recurvebow": {
     "key": "recurvebow",
+    "image": "../assets/2.png",
     "name": "Recurve Bow",
     "type": "Offensive",
     "bonus": "+20% Attack Speed",
@@ -82,6 +85,7 @@ const items = {
   },
   "tearofthegoddess": {
     "key": "tearofthegoddess",
+    "image": "../assets/4.png",
     "name": "Tear of the Goddess",
     "type": "Utility",
     "bonus": "+20 Starting Mana.",
@@ -109,6 +113,7 @@ const items = {
   },
   "chainvest": {
     "key": "chainvest",
+    "image": "../assets/5.png",
     "name": "Chain Vest",
     "type": "Defensive",
     "bonus": "+20 Armor.",
@@ -136,6 +141,7 @@ const items = {
   },
   "negatroncloak": {
     "key": "negatroncloak",
+    "image": "../assets/6.png",
     "name": "Negatron Cloak",
     "type": "Defensive",
     "bonus": "+20 Magic Resist.",
@@ -163,6 +169,7 @@ const items = {
   },
   "giantsbelt": {
     "key": "giantsbelt",
+    "image": "../assets/7.png",
     "name": "Giant's Belt",
     "type": "Defensive",
     "bonus": "+200 Health.",
@@ -190,6 +197,7 @@ const items = {
   },
   "spatula": {
     "key": "spatula",
+    "image": "../assets/8.png",
     "name": "Spatula",
     "type": "Utility",
     "bonus": "It must do something...",
